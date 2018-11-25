@@ -30,3 +30,4 @@ Hallym University(2017~)
 
  - PyConAPAC 2016
  - SW summer camp (국민대학교)
+ - AsiaHaptic 2018 as a staff
